@@ -2,4 +2,4 @@
 
 ## Use
 
-### ```python3 webp-convert-dir.py "(DIR LOCATION Without / on end)" "Quality(0-100)"```
+#### ```python3 webp-convert-dir.py "(DIR LOCATION Without / on end)" "Quality(0-100)"```
